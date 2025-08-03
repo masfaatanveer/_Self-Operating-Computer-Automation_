@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Self Operating Computer Automation</h1>
+<h1 align="center">🧠 Agentic AI Computer Automation</h1>
 <h3 align="center">By Masfa Tanveer</h3>
 
 <p align="center">
@@ -174,7 +174,7 @@ autopilot
 
 ---
 
-## 👨‍💻 Created by Masfa Dhillon
+## 👨‍💻 Created by Masfa Tanveer
 
 [GitHub](https://github.com/masfaatanveer) • [LinkedIn](https://linkedin.com/in/masfa-tanveer-500474235)
 
